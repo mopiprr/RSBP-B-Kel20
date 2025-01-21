@@ -1,0 +1,25 @@
+
+
+L. J. Kirby, E. Boerstra, Z. J. C. Anderson and J. Rubin, "Weighing the Evidence: On Relationship Types in Microservice Extraction," 2021 IEEE/ACM 29th International Conference on Program Comprehension (ICPC), Madrid, Spain, 2021, pp. 358-368, doi: 10.1109/ICPC52881.2021.00041. keywords: {Industries;Computer languages;Semantics;Organizations;Tools;Complexity theory;Task analysis;microservices;decomposition;extraction;migration;architectural refactoring},
+
+
+
+
+Kannan Govindan, M. N. Jepsen, “ELECTRE: A comprehensive literature review on methodologies and applications”,European Journal of Operational Research, 2016,Pages 1-29, ISSN 0377-2217. keywords : Multiple criteria decision aiding (MCDA); Outranking; ELECTRE; Literature review. https://www.sciencedirect.com/science/article/pii/S0377221715006529 
+
+Marzouk, Mohamed M. "ELECTRE III model for value engineering applications." Automation in construction 20, no. 5 (2011): 596-600. 
+https://www.sciencedirect.com/science/article/abs/pii/S0926580510002050
+
+N. Chen, Z. Xu, “Hesitant fuzzy ELECTRE II approach: A new way to handle multi-criteria decision making problems”, Information Sciences, volume 292, 2015, ISSN 0020-0255, keywords : Hesitant fuzzy sets; Hesitant fuzzy ELECTRE II approach; Multi-criteria decision making; Concordance sets; Discordance sets.
+https://www.sciencedirect.com/science/article/pii/S0020025514008597 
+
+Irik Z. Mukhametzyanov, “SPECIFIC CHARACTER OF OBJECTIVE METHODS FOR DETERMINING WEIGHTS OF CRITERIA IN MCDM PROBLEMS: Entropy, CRITIC, SD”,Ufa State Petroleum Technological University,Ufa, Russia, 2021, Vol. 4, Issue 2, 2021, pp. 76-105ISSN: 2560-6018.
+DOI: https://doi.org/10.31181/dmame210402076i 
+
+T. L. Saaty, The Analytic Hierarchy Process, New York, NY, USA:McGrawHill, 1980.
+
+J. Gyani, A. Ahmed and M. A. Haq, "MCDM and Various Prioritization Methods in AHP for CSS: A Comprehensive Review," in IEEE Access, vol. 10, pp. 33492-33511, 2022, doi: 10.1109/ACCESS.2022.3161742. keywords: {Cloud computing;Costs;Decision making;Security;Software as a service;Phase change materials;Computer architecture;Cloud service providers (CSPs);multi-criteria decision-making (MCDM);cloud service selection (CSS);pair-wise comparison matrix (PCM);analytic hierarchy process (AHP)}.
+https://ieeexplore.ieee.org/abstract/document/9740206 
+
+Serafim Opricovic, Gwo-Hshiung Tzeng,Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS,European Journal of Operational Research,Volume 156, Issue 2,2004,Pages 445-455,ISSN 0377-2217, Keywords: Multiple criteria analysis; Compromise; VIKOR; TOPSIS; Comparison
+https://www.sciencedirect.com/science/article/pii/S0377221703000201 
